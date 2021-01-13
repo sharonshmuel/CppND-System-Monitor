@@ -5,3 +5,4 @@ settings.json
 build/*
 *.json
 src/VCAST.QIK
+include/VCAST.QIK
